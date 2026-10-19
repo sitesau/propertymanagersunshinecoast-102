@@ -1,0 +1,22 @@
+{
+  "wheel_id": 456,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-102",
+  "project": "property-management-sunshine-coast-questions-to-ask-1130a5469dc",
+  "parent_t1_ref": "propertymanagersunshinecoast-150",
+  "node_role": "feeder",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "property management sunshine coast questions to ask",
+  "intended_url": "http://property-management-sunshine-coast-questions-to-ask-1130a5469dc.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "83f2ee64cbc2f9f9",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/property-management-sunshine-coast-194583bc2432e9609affc5556298/",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
